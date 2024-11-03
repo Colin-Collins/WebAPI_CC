@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "WebAPI_CC.Controllers.NameController",
+    "Method": "GetName",
+    "RelativePath": "Name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
